@@ -133,7 +133,7 @@ Attach the skill in a Cursor chat by referencing it with `@skill-security-review
 ### Post-Deployment Audit
 
 ```
-@skill-security-review Audit the current Kibana security setup based on this config: [paste config]
+@skill-security-review Audit the current security setup based on this config: [paste config]
 ```
 
 ### What to Expect
